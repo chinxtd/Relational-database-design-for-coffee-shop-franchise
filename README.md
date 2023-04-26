@@ -1,1 +1,1 @@
-# Relational-database-design-for-coffee-shop-franchise
+# Relational database design for coffee shop franchise
