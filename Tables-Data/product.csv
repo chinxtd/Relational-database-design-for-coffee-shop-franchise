@@ -1,0 +1,89 @@
+"product_id","product_name","description","product_price","product_type_id"
+1,"Brazilian - Organic","It's like Carnival in a cup. Clean and smooth.","18",1
+2,"Our Old Time Diner Blend","Our packed blend of beans that is reminiscent of the cup of coffee you used to get at a diner. ","18",2
+3,"Espresso Roast","Our house blend for a good espresso shot.","14.75",3
+4,"Primo Espresso Roast","Our premium single source of hand roasted beans.","20.45",3
+5,"Columbian Medium Roast","A smooth cup of coffee any time of day. ","15",4
+6,"Ethiopia","From the home of coffee.","21",4
+7,"Jamacian Coffee River","Ya man, it will start your day off right. ","19.75",5
+8,"Civet Cat","The most expensive coffee in the world, the cats do all the work. ","45",5
+9,"Organic Decaf Blend","Our blend of hand picked organic beans that have been naturally decaffinated. ","28",6
+10,"Guatemalan Sustainably Grown","Green beans you can roast yourself. ","10",7
+11,"Lemon Grass","You will think you are Thailand as you sip your cuppa. ","8.95",8
+12,"Peppermint","Cool and refreshing to help calm your nerves. ","8.95",8
+13,"English Breakfast","The traditional cup to start your day.","8.95",9
+14,"Earl Grey","A full leaf of Orange Pekoe blended with organic oil of bergamot.","8.95",9
+15,"Serenity Green Tea","Mountain grown and harvested at the optimal time. ","9.25",10
+16,"Traditional Blend Chai","A traditional blend.","8.95",11
+17,"Morning Sunrise Chai","Fair trade and organic and has a warm finish. ","9.5",11
+18,"Spicy Eye Opener Chai","A spicier blend to awaken your taste buds.","10.95",11
+19,"Dark chocolate","This drinking chocolate is smooth and creamy.","6.4",12
+20,"Sustainably Grown Organic","Certified organic containing the highest quality ingredients. ","7.6",13
+21,"Chili Mayan","Fragrant with spices, this is the most flavourful drinking chocolate you will find.","13.33",12
+22,"Our Old Time Diner Blend Sm","An honest cup a coffee.","2",14
+23,"Our Old Time Diner Blend Rg","An honest cup a coffee.","2.5",14
+24,"Our Old Time Diner Blend Lg","An honest cup a coffee.","3",14
+25,"Brazilian Sm","It's like Carnival in a cup. Clean and smooth.","2.2",15
+26,"Brazilian Rg","It's like Carnival in a cup. Clean and smooth.","3",15
+27,"Brazilian Lg","It's like Carnival in a cup. Clean and smooth.","3.5",15
+28,"Columbian Medium Roast Sm","A smooth cup of coffee any time of day. ","2",16
+29,"Columbian Medium Roast Rg","A smooth cup of coffee any time of day. ","2.5",16
+30,"Columbian Medium Roast Lg","A smooth cup of coffee any time of day. ","3",16
+31,"Ethiopia Sm","A bold cup when you want that something extra.","2.2",16
+32,"Ethiopia Rg","A bold cup when you want that something extra.","3",16
+33,"Ethiopia Lg","A bold cup when you want that something extra.","3.5",16
+34,"Jamaican Coffee River Sm","Still a front runner for good premium coffee. ","2.45",17
+35,"Jamaican Coffee River Rg","Still a front runner for good premium coffee. ","3.1",17
+36,"Jamaican Coffee River Lg","Still a front runner for good premium coffee. ","3.75",17
+37,"Espresso shot","You will think you are in Venice when you sip this one. ","3",18
+38,"Latte","You will think you are in Venice when you sip this one. ","3.75",18
+39,"Latte Rg","You will think you are in Venice when you sip this one. ","4.25",18
+40,"Cappuccino","You will think you are in Venice when you sip this one. ","3.75",18
+41,"Cappuccino Lg","You will think you are in Venice when you sip this one. ","4.25",18
+42,"Lemon Grass Rg","You will think you are in Thailand. ","2.5",19
+43,"Lemon Grass Lg","You will think you are in Thailand. ","3",19
+44,"Peppermint Rg","A cool and refreshing cup.","2.5",9
+45,"Peppermint Lg","A cool and refreshing cup.","3",19
+46,"Serenity Green Tea Rg","Feel the stress leaving your body. ","2.5",20
+47,"Serenity Green Tea Lg","Feel the stress leaving your body. ","3",20
+48,"English Breakfast Rg","The Queen's favourite cuppa in the morning. ","2.5",21
+49,"English Breakfast Lg","The Queen's favourite cuppa in the morning. ","3",21
+50,"Earl Grey Rg","Tradition in a cup.","2.5",21
+51,"Earl Grey Lg","Tradition in a cup.","3",21
+52,"Traditional Blend Chai Rg","Sit back and think of the tropical breezes.","2.5",22
+53,"Traditional Blend Chai Lg","Sit back and think of the tropical breezes.","3",22
+54,"Morning Sunrise Chai Rg","Face the morning after your yoga routine. ","2.5",22
+55,"Morning Sunrise Chai Lg","Face the morning after your yoga routine. ","4",22
+56,"Spicy Eye Opener Chai Rg","When you need your eyes opened wide.","2.55",22
+57,"Spicy Eye Opener Chai Lg","When you need your eyes opened wide.","3.1",22
+58,"Dark chocolate Rg","Slightly bitter, but still very rich. ","3.5",23
+59,"Dark chocolate Lg","Slightly bitter, but still very rich. ","4.5",23
+60,"Sustainably Grown Organic Rg","Just pure notes of spice.","3.75",23
+61,"Sustainably Grown Organic Lg","Just pure notes of spice.","4.75",23
+62,"Snow Day Hot Chocolate","Added marshmallows for the needed sugar rush.","3",23
+63,"Carmel syrup","Rich carmel taste","0.8",24
+64,"Hazelnut syrup","Bursting with nutty flavour","0.8",24
+65,"Sugar Free Vanilla syrup","Our favorite","0.8",25
+66,"Pumpkin Spice Latte","Boo, its that time of year again","4.95",26
+67,"Pumpkin Spice Latte Lg","Boo, its that time of year again","5.95",26
+68,"Happy Holidays hot chocolate","Candy cane and hot chocolate, perfect.","3.75",27
+69,"Hazelnut Biscotti","Crunch!","3.5",28
+70,"Cranberry Scone","Like Grandma used to make","3.25",29
+71,"Chocolate Croissant","Chocolate flakes","3.75",30
+72,"Ginger Scone","Little bit of spice","3.25",29
+73,"Almond Croissant","Crunch!","3.75",30
+74,"Ginger Biscotti","Crunch!","3.5",28
+75,"Croissant","Flakey and buttery","3.5",30
+76,"Chocolate Chip Biscotti","Crunch!","3.5",28
+77,"Oatmeal Scone","Grannys fav","3",29
+78,"Scottish Cream Scone ","Old time comfort","4.5",29
+79,"Jumbo Savory Scone","Anytime, anywhere","3.75",29
+80,"I Need My Bean! Toque","keep your head bean warm","23",31
+81,"I Need My Bean! T-shirt","Stylish chic","23",31
+82,"I Need My Bean! Diner mug","Classic","23",32
+83,"I Need My Bean! Latte cup","The cup and saucer set is the perfect way to enjoy your latte at home","23",32
+84,"Chocolate syrup","Bursting with chocolate flavour","0.8",24
+85,"Rio Nights","2 shots of Ouro Brasilerio and pure cane sugar syrup","6",33
+87,"Ouro Brasileiro shot","From Rio","3",33
+88,"Ouro Brasileiro shot promo","Ouro promo","2.1",33
+89,"Ginger Scone promo","Little bit of spice","2.65",29

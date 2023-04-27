@@ -1,0 +1,10 @@
+"sales_outlet_id","sales_outlet_type","address","city","telephone","postal_code","manager"
+2,"warehouse","164-14 Jamaica Ave","Jamaica","972-871-0402",11432,NULL
+3,"retail","32-20 Broadway","Long Island City","777-718-3190",11106,6
+4,"retail","604 Union Street","Brooklyn","619-347-5193",11215,11
+5,"retail","100 Church Street","New York","343-212-5151",10007,16
+6,"retail","122 E Broadway","New York","613-555-4989",10002,21
+7,"retail","224 E 57th Street","New York","287-817-2330",10021,26
+8,"retail","687 9th Avenue","New York","652-212-7020",10036,31
+9,"retail","175 8th Avenue","New York","242-212-0080",10011,36
+10,"retail","183 W 10th Street","New York","674-646-6434",10014,41
