@@ -16,3 +16,9 @@ This project was created as a final assignment of the Introduction to Relational
 - now create the rest tables and define a relationship between tables
 - the ERD should look like below picture
 <img src="https://github.com/chinxtd/Relational-database-design-for-coffee-shop-franchise/blob/main/image/ERD.png" alt="Normalized_ERD">
+
+## Advantage of data normalization
+- Reduces redundancy
+  - Reducing redundancy will ultimately help reduce file size
+- Cost reduction
+  - if file size is reduced, data storage and processors won’t need to be as large.
